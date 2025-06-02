@@ -92,5 +92,5 @@ Licença
 Este projeto está licenciado sob a MIT License.
 
 Contato
-Seu Nome - ggFreitasaDev@gmail.com
+Gustavo de Freitas - ggFreitasaDev@gmail.com
 LinkedIn | GitHub
